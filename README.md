@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Olá 👋, sou Boniek Araujo dos Santos Junior</h1>
+<h1 align="center">Olá , sou Boniek Araujo dos Santos Junior</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na CESAR School, em constante evolução e aprimoramento na área de tecnologia, com interesse em desenvolvimento e resolução de problemas.</h3>
 
 - 🌱 Atualmente estou aprendendo **Django, ServiceNow e Typescript**
