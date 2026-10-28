@@ -1,8 +1,8 @@
 <div align="center">
 
-### BONIEK JUNIOR
+<img src="./assets/animated-banner.svg" alt="Boniek Junior — Software, AI and Innovation: banner animado em verde-esmeralda" width="100%" />
 
-# Software development. AI. Real-world impact.
+### Software development. AI. Real-world impact.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=85E9B5&center=true&vCenter=true&width=650&height=45&lines=Desenvolvimento+Fullstack;Intelig%C3%AAncia+Artificial+%2B+Inova%C3%A7%C3%A3o;Tecnologia+para+problemas+reais)](https://git.io/typing-svg)
 
@@ -48,6 +48,12 @@ Gosto de entender o contexto de um problema antes de escrever código. Meu inter
 ### Como penso sobre tecnologia
 
 > Tecnologia é meio, não fim. A melhor solução começa pela compreensão do problema, ganha forma com boas decisões técnicas e se prova no impacto que entrega.
+
+<div align="center">
+
+<img src="./assets/animated-flow.svg" alt="Animação: contexto, engenharia e impacto" width="100%" />
+
+</div>
 
 ---
 
