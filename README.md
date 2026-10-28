@@ -4,7 +4,7 @@
 
 # Software development. AI. Real-world impact.
 
-**Desenvolvedor Fullstack · Inteligência Artificial · Inovação**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=85E9B5&center=true&vCenter=true&width=650&height=45&lines=Desenvolvimento+Fullstack;Intelig%C3%AAncia+Artificial+%2B+Inova%C3%A7%C3%A3o;Tecnologia+para+problemas+reais)](https://git.io/typing-svg)
 
 Transformo problemas reais em soluções digitais, conectando engenharia de software, IA e experiência de uso.
 
@@ -29,6 +29,12 @@ Gosto de entender o contexto de um problema antes de escrever código. Meu inter
 **Backend e dados:** FastAPI · APIs REST · SQL · PostgreSQL
 
 **Ferramentas e produto:** Git · GitHub · Docker · Figma
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boniek-junior&bg_color=0d1117&color=c9d1d9&line=85e9b5&point=3ecf8e&area=true&area_color=85e9b5&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub" width="100%" />
+
+</div>
 
 ### Projetos selecionados
 
