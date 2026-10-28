@@ -32,7 +32,7 @@ Gosto de entender o contexto de um problema antes de escrever código. Meu inter
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boniek-junior&bg_color=0d1117&color=c9d1d9&line=85e9b5&point=3ecf8e&area=true&area_color=85e9b5&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub" width="100%" />
+<a href="https://github.com/boniek-junior?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boniek-junior&theme=github_dark" alt="Resumo de contribuições e atividade de Boniek Junior no GitHub" width="100%" /></a>
 
 </div>
 
