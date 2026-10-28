@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-label="Fluxo: contexto, engenharia, impacto">
+<rect width="900" height="112" rx="16" fill="#0d1117"/><rect x="1" y="1" width="898" height="110" rx="15" fill="none" stroke="#85e9b5" stroke-opacity=".2"/>
+<path id="flow" d="M250 56H350 M550 56H650" fill="none" stroke="#85e9b5" stroke-opacity=".4" stroke-width="2" stroke-dasharray="6 7"><animate attributeName="stroke-dashoffset" from="0" to="-26" dur="1.5s" repeatCount="indefinite"/></path>
+<g font-family="Arial,Helvetica,sans-serif" font-size="20" text-anchor="middle"><rect x="40" y="22" width="210" height="68" rx="12" fill="#10241b" stroke="#85e9b5" stroke-opacity=".5"/><text x="145" y="63" fill="#eafff4">CONTEXTO</text><rect x="350" y="22" width="200" height="68" rx="12" fill="#10241b" stroke="#85e9b5" stroke-opacity=".5"/><text x="450" y="63" fill="#eafff4">ENGENHARIA</text><rect x="650" y="22" width="210" height="68" rx="12" fill="#10241b" stroke="#85e9b5" stroke-opacity=".5"/><text x="755" y="63" fill="#eafff4">IMPACTO</text></g>
+<circle r="4" fill="#b8ffe0"><animateMotion dur="2.6s" repeatCount="indefinite" path="M250 56H350"/></circle><circle r="4" fill="#b8ffe0"><animateMotion dur="2.6s" repeatCount="indefinite" path="M550 56H650"/></circle>
+</svg>
