@@ -1,18 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">Olá , sou Boniek Araujo dos Santos Junior</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas na CESAR School, em constante evolução e aprimoramento na área de tecnologia, com interesse em desenvolvimento e resolução de problemas.</h3>
+### BONIEK JUNIOR
 
-- 🌱 Atualmente estou aprendendo **Django, ServiceNow e Typescript**
+# Software development. AI. Real-world impact.
 
-- 📫 Como me contatar **boniek.junior.123@gmail.com**
+**Desenvolvedor Fullstack · Inteligência Artificial · Inovação**
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/boniek-junior-561448281" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boniek-junior-561448281" height="30" width="40" /></a>
-<a href="https://instagram.com/boniekasj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boniekasj" height="30" width="40" /></a>
-<a href="https://discord.gg/550661851277688832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="550661851277688832" height="30" width="40" /></a>
-</p>
+Transformo problemas reais em soluções digitais, conectando engenharia de software, IA e experiência de uso.
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[**Portfólio**](https://portfolio-boniek.vercel.app/pt) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/boniek-junior-561448281/) &nbsp;·&nbsp; [**E-mail**](mailto:boniek.junior.123@gmail.com)
+
+</div>
+
+---
+
+### Sobre mim
+
+Sou desenvolvedor de software e atuo atualmente como **estagiário de desenvolvimento Fullstack na Just**, uma empresa de tecnologia voltada ao setor jurídico.
+
+Estudo **Análise e Desenvolvimento de Sistemas na CESAR School**, pelo programa **Embarque Digital**. Antes, tive experiências com sistemas empresariais e dados na **Império Móveis e Eletro** e com ensino de programação na **Infinity School**.
+
+Gosto de entender o contexto de um problema antes de escrever código. Meu interesse está em criar produtos que combinem **boa engenharia, inteligência artificial e valor para quem usa**.
+
+### Tecnologias com as quais trabalho
+
+**Desenvolvimento:** TypeScript · JavaScript · React · Next.js · Python · Java
+
+**Backend e dados:** FastAPI · APIs REST · SQL · PostgreSQL
+
+**Ferramentas e produto:** Git · GitHub · Docker · Figma
+
+### Projetos selecionados
+
+| Projeto | O que explora | Links |
+| :--- | :--- | :--- |
+| **Portfólio Boniek** | Experiência web interativa com Next.js, TypeScript e animações | [Código](https://github.com/boniek-junior/portfolio-boniek) · [Site](https://portfolio-boniek.vercel.app/pt) |
+| **ShopFlow** | Interface de e-commerce e experiência de compra | [Código](https://github.com/boniek-junior/ShopFlow) · [Site](https://shopflow-eight.vercel.app) |
+| **ShopFlow API** | Backend de e-commerce com FastAPI, autenticação e persistência | [Código](https://github.com/boniek-junior/shopflow-api) |
+| **Sistema de Barbearia** | Sistema de gestão de clientes e agendamentos com frontend e API | [Frontend](https://github.com/boniek-junior/frontend-sistema-barbearia) · [Backend](https://github.com/boniek-junior/sistema-barbearia) |
+
+### Como penso sobre tecnologia
+
+> Tecnologia é meio, não fim. A melhor solução começa pela compreensão do problema, ganha forma com boas decisões técnicas e se prova no impacto que entrega.
+
+---
+
+<div align="center">
+
+**Vamos construir algo útil?**
+
+[Portfólio](https://portfolio-boniek.vercel.app/pt) · [LinkedIn](https://www.linkedin.com/in/boniek-junior-561448281/) · [Contato](mailto:boniek.junior.123@gmail.com)
+
+<sub>Recife, Pernambuco · Brasil</sub>
+
+</div>
