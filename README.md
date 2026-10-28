@@ -59,6 +59,8 @@ Gosto de entender o contexto de um problema antes de escrever código. Meu inter
 
 <div align="center">
 
+<img src="./assets/terminal-signoff.svg" alt="Terminal com cursor piscando: building what matters" width="100%" />
+
 **Vamos construir algo útil?**
 
 [Portfólio](https://portfolio-boniek.vercel.app/pt) · [LinkedIn](https://www.linkedin.com/in/boniek-junior-561448281/) · [Contato](mailto:boniek.junior.123@gmail.com)
