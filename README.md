@@ -32,6 +32,12 @@ Gosto de entender o contexto de um problema antes de escrever código. Meu inter
 
 <div align="center">
 
+<img src="./assets/animated-toolkit.svg" alt="Painel animado das tecnologias e ferramentas com destaque luminoso em verde-esmeralda" width="100%" />
+
+</div>
+
+<div align="center">
+
 <a href="https://github.com/boniek-junior?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boniek-junior&theme=github_dark" alt="Resumo de contribuições e atividade de Boniek Junior no GitHub" width="100%" /></a>
 
 </div>
